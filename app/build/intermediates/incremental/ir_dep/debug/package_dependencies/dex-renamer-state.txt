@@ -1,0 +1,4 @@
+#Sat Aug 25 13:02:17 CEST 2018
+base.0=C\:\\Users\\Maksym\\Desktop\\Neuer Ordner\\PaintApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

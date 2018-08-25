@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ab997e8183130a67b1ab402941670eb9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c0fc347ac2f18ec0301f70f7fbeeefdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\765c9606f206607d8268476cd85c9b87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\897f4ee09af14f9abf64f9e78223a30b\AndroidManifest.xml:2:1-11:12
+MERGED from [net.margaritov.preference.colorpicker.ColorPickerPreference:ColorPickerPreference:1.0.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\ColorPickerPreference-1.0.0.aar\d784f7e3c8a7b86decb6090dd15c748b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.asksira.android:bsimagepicker:1.0.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\bsimagepicker-1.0.1.aar\6031ea4471edac04cca6584cf579cc08\AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\33591b1ada69b62d82da10256e75f5ba\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a8d77c8cddc02e888a362504a118d91b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\63b324bc3d3fe6c663a2c8b838336c8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\da2e016e2070ab5679d0957c10a2cc9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2b2b04c0b26058f8727f2e46174590d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\66810e943e7286c9a24fea1f017e6984\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c93976ecdc52ffb7e753744f36566d25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\df54ef299360ec144dccae388e0a4662\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\6ca3ee57e2a7c585810b48ebdf0a6dc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fe67b939ff1ac3c99df968eb68e14d21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\7b8888e087bcd7f3c52200ceacb17ef6\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cb1b76b86a9f72a339c1421f7ba0f1d0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bf11b258c6c50e0c5f836ae9d3a2d66d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f03dc6da93a629e78a933026397f4a15\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d125cc357f5f111aaad0685e20fafba7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:5:5-81
+MERGED from [com.asksira.android:bsimagepicker:1.0.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\bsimagepicker-1.0.1.aar\6031ea4471edac04cca6584cf579cc08\AndroidManifest.xml:12:5-81
+MERGED from [com.asksira.android:bsimagepicker:1.0.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\bsimagepicker-1.0.1.aar\6031ea4471edac04cca6584cf579cc08\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [com.asksira.android:bsimagepicker:1.0.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\bsimagepicker-1.0.1.aar\6031ea4471edac04cca6584cf579cc08\AndroidManifest.xml:11:5-80
+MERGED from [com.asksira.android:bsimagepicker:1.0.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\bsimagepicker-1.0.1.aar\6031ea4471edac04cca6584cf579cc08\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:7:5-64
+MERGED from [com.asksira.android:bsimagepicker:1.0.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\bsimagepicker-1.0.1.aar\6031ea4471edac04cca6584cf579cc08\AndroidManifest.xml:13:5-65
+MERGED from [com.asksira.android:bsimagepicker:1.0.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\bsimagepicker-1.0.1.aar\6031ea4471edac04cca6584cf579cc08\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:7:22-62
+application
+ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:10:5-36:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\897f4ee09af14f9abf64f9e78223a30b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\897f4ee09af14f9abf64f9e78223a30b\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\33591b1ada69b62d82da10256e75f5ba\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\33591b1ada69b62d82da10256e75f5ba\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\7b8888e087bcd7f3c52200ceacb17ef6\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\7b8888e087bcd7f3c52200ceacb17ef6\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.paintapp.admin.PaintActivity
+ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:theme
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:17:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:22:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:30:13-47
+	android:authorities
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:28:13-66
+	android:exported
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:27:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:31:13-33:57
+	android:resource
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:33:17-55
+	android:name
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml:32:17-67
+uses-sdk
+INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ab997e8183130a67b1ab402941670eb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ab997e8183130a67b1ab402941670eb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c0fc347ac2f18ec0301f70f7fbeeefdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c0fc347ac2f18ec0301f70f7fbeeefdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\765c9606f206607d8268476cd85c9b87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\765c9606f206607d8268476cd85c9b87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\897f4ee09af14f9abf64f9e78223a30b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\897f4ee09af14f9abf64f9e78223a30b\AndroidManifest.xml:5:5-7:41
+MERGED from [net.margaritov.preference.colorpicker.ColorPickerPreference:ColorPickerPreference:1.0.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\ColorPickerPreference-1.0.0.aar\d784f7e3c8a7b86decb6090dd15c748b\AndroidManifest.xml:7:5-9:41
+MERGED from [net.margaritov.preference.colorpicker.ColorPickerPreference:ColorPickerPreference:1.0.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\ColorPickerPreference-1.0.0.aar\d784f7e3c8a7b86decb6090dd15c748b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.asksira.android:bsimagepicker:1.0.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\bsimagepicker-1.0.1.aar\6031ea4471edac04cca6584cf579cc08\AndroidManifest.xml:7:5-9:41
+MERGED from [com.asksira.android:bsimagepicker:1.0.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\bsimagepicker-1.0.1.aar\6031ea4471edac04cca6584cf579cc08\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\33591b1ada69b62d82da10256e75f5ba\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\33591b1ada69b62d82da10256e75f5ba\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a8d77c8cddc02e888a362504a118d91b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a8d77c8cddc02e888a362504a118d91b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\63b324bc3d3fe6c663a2c8b838336c8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\63b324bc3d3fe6c663a2c8b838336c8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\da2e016e2070ab5679d0957c10a2cc9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\da2e016e2070ab5679d0957c10a2cc9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2b2b04c0b26058f8727f2e46174590d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2b2b04c0b26058f8727f2e46174590d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\66810e943e7286c9a24fea1f017e6984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\66810e943e7286c9a24fea1f017e6984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c93976ecdc52ffb7e753744f36566d25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c93976ecdc52ffb7e753744f36566d25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\df54ef299360ec144dccae388e0a4662\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\df54ef299360ec144dccae388e0a4662\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\6ca3ee57e2a7c585810b48ebdf0a6dc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\6ca3ee57e2a7c585810b48ebdf0a6dc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fe67b939ff1ac3c99df968eb68e14d21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fe67b939ff1ac3c99df968eb68e14d21\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\7b8888e087bcd7f3c52200ceacb17ef6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\7b8888e087bcd7f3c52200ceacb17ef6\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cb1b76b86a9f72a339c1421f7ba0f1d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cb1b76b86a9f72a339c1421f7ba0f1d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bf11b258c6c50e0c5f836ae9d3a2d66d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bf11b258c6c50e0c5f836ae9d3a2d66d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f03dc6da93a629e78a933026397f4a15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f03dc6da93a629e78a933026397f4a15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d125cc357f5f111aaad0685e20fafba7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Maksym\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d125cc357f5f111aaad0685e20fafba7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maksym\Desktop\Neuer Ordner\PaintApp\app\src\main\AndroidManifest.xml

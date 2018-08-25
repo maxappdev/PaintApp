@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.asksira.android:bsimagepicker-1.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bsimagepicker-1.0.1.aar/a70432f8846df65c898ac63878b325a3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bsimagepicker-1.0.1.aar/a70432f8846df65c898ac63878b325a3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.asksira.android/bsimagepicker/1.0.1/b848ed5b1ebbfb3b823eb8c74fbfcb89f0d393a8/bsimagepicker-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
